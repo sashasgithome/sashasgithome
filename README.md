@@ -7,5 +7,5 @@ I'm an undergraduate working part-time as a Teaching Assistant. I am deeply intr
 - Pandas, Seaborn, CV2, MatplotLib, Tensorflow, and other libraries
   
 To keep my right-brain in its toes, I periodically take *Game Designer* roles and make playable game apps as listed in 🎮 [my itch.io page](https://oceanparty.itch.io/) 🎲.
-Outside of those, I am interested in any social developments and daily news :)
+Or, I write stories for competitions. Outside of those, I am interested in any social developments and daily news :)
 
